@@ -25,7 +25,7 @@ To analyze and visualize Superstore sales data using Excel to uncover business p
 - Sales drops in Oct & Feb despite higher quantities sold, likely due to discounts.
 
 ## 📷 Dashboard Preview
-!
+![Superstore Dashboard]
 
   
 
