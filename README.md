@@ -1,4 +1,4 @@
-# 📊 Alisha’s Data Analyst Portfolio
+# 🌐 Alisha’s Data Analyst Portfolio
 
 Welcome! This repository contains all my projects as a **Data Analyst**, using **Excel, SQL, Power BI, Python, and AI tools**. Each project is organized in its own folder with detailed documentation and files.
 
@@ -13,7 +13,7 @@ Welcome! This repository contains all my projects as a **Data Analyst**, using *
 ## 🧰 Tools Used by a Data Analyst
 
 - Excel (Data Cleaning, Data Validation, Power Query, Pivot Tables, Charts, Dashboards and Reports)
-- SQL (CRUD operations, Data extraction and analysis, JOINs, Subqueries, CTE)
+- SQL (CRUD operations, Data Extraction and Analysis, JOINs, Subqueries, CTE)
 - Power BI (Data Transform, Power Query Editor, Data Modeling, DAX, Data Visualization, Interactive Dashboard Design)
 - Python (NumPy, Pandas, Matplotlib, Seaborn)
-- AI tools (For smart analysis & automation)
+- AI tools (For Smart Analysis & Automation)
