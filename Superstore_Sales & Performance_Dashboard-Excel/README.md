@@ -26,11 +26,11 @@ To analyze and visualize Superstore sales data using Excel to uncover business p
 
 ## 📷 Dashboard Preview
 
-![Superstore Dashboard](Superstore_Sales & Performance_Dashboard-Excel/Superstore_Dashboard_Sample-Picture.png)
+![Superstore Dashboard](Superstore_Dashboard_Sample-Picture.png)
 
 ## 📁 Files Included
 
-[📥 Download Excel Dashboard](Superstore_Sales & Performance_Dashboard-Excel/Superstore_Sales & Performance_Dashboard_Project.xlsx)
+[📥 Download Excel Dashboard](Superstore_Sales & Performance_Dashboard_Project.xlsx)
 
 
   
