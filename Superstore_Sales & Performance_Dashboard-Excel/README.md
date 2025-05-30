@@ -30,7 +30,7 @@ To analyze and visualize Superstore sales data using Excel to uncover business p
 
 ## 📁 Files Included
 
-[📥 Download Excel Dashboard Project](Superstore_Sales_Dashboard_Project.xlsx)
+[📥 Download Excel Dashboard](Superstore_Sales_Dashboard_Project.xlsx)
 
 
   
