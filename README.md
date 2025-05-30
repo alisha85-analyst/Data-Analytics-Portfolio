@@ -14,6 +14,6 @@ Welcome! This repository contains all my projects as a **Data Analyst**, using *
 
 - Excel (Data Cleaning, Data Validation, Power Query, Pivot Tables, Charts, Dashboards and Reports)
 - SQL (CRUD operations, Data Extraction and Analysis, JOINs, Subqueries, CTE)
-- Power BI (Data Transform, Power Query Editor, Data Modeling, DAX, Data Visualization, Interactive Dashboard Design)
+- Power BI (Data Transform, Power Query Editor, Data Modeling, DAX, Data Visualization, Interactive Dashboard)
 - Python (NumPy, Pandas, Matplotlib, Seaborn)
 - AI tools (For Smart Analysis & Automation)
