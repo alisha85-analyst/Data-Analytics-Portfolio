@@ -1,4 +1,4 @@
-# 🌐 Alisha’s Data Analyst Portfolio
+# 🌐 Alisha’ Data Analyst Portfolio
 
 Welcome! This repository contains all my projects as a **Data Analyst**, using **Excel, SQL, Power BI, Python, and AI tools**. Each project is organized in its own folder with detailed documentation and files.
 
