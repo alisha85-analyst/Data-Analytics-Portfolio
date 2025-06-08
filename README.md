@@ -7,7 +7,6 @@ Welcome! This repository contains all my projects as a **Data Analyst**, using *
 | Project | Tool(s) Used | Description |
 |--------|---------------|-------------|
 | [Superstore Sales & Performance Dashboard](Superstore_Sales%20&%20Performance_Dashboard-Excel) | Excel | A dashboard analyzing sales, profits, and key metrics from a e-commerce dataset using Pivot Tables,Charts, KPIs and Slicers. |
-|--------|---------------|-------------|
 | [Olist-PowerBI-Insights](./Olist-PowerBI-Insights)  | Power BI | Dashboards analyzing customer experience, delivery performance, product operations, and payment behavior. |
 
 ---
