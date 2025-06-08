@@ -52,10 +52,10 @@ To extract advanced insights beyond just sales metrics by answering operational 
 
 | Dashboard | Preview |
 |----------|---------|
-| Customer Experience | ![Customer Experience](Screenshot_2025-06-08_104956.png) |
-| Delivery Performance | ![Delivery Performance](Screenshot_2025-06-08_105009.png) |
-| Product Operations | ![Product Operations](Screenshot_2025-06-08_105021.png) |
-| Payment Behavior | ![Payment Behavior](Screenshot_2025-06-08_105040.png) |
+| Customer Experience | ![Customer Experience](Customer_Experience.png) |
+| Delivery Performance | ![Delivery Performance](Delivery_Performance.png) |
+| Product Operations | ![Product Operations](Product_Operations.png) |
+| Payment Behavior | ![Payment Behavior](Payment_Behavior.png) |
 
 ---
 
