@@ -11,7 +11,7 @@ To extract advanced insights beyond just sales metrics by answering operational 
 
 ## 📁 Dataset Used
 - Sourced from the [Olist e-commerce public dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
-- Cleaned and modeled in Power BI using 9 key tables.
+- Cleaned and modeled in Power BI using 8 key tables.
 
 ---
 
