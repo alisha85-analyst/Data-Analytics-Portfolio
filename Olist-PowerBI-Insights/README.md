@@ -38,6 +38,29 @@ To extract advanced insights beyond just sales metrics by answering operational 
 - Regional Payment Trends
 
 ---
+## 📌 Key Insights
+
+✅ **Customer Experience**  
+- Over 57% of reviews are 5-star rated, with positive sentiment dominating.  
+- Product categories like "health_beauty" and "sports_leisure" scored highest in satisfaction.  
+- Response time to customer reviews is fastest in top-tier cities.
+
+✅ **Delivery & Logistics**  
+- Late deliveries peak during holiday months, especially in the South and Northeast regions.  
+- Most delayed orders were shipped via standard delivery methods, suggesting optimization needs.  
+- Average delivery takes ~10 days vs an estimate of ~8 days.
+
+✅ **Product Operations**  
+- "Bed_Bath_Table" and "Furniture" generate high revenue but also have higher complaint rates.  
+- Products with higher shipping weight tend to have more complaints and longer delays.  
+- Some categories generate significant volume but little profit due to low pricing.
+
+✅ **Payment Behavior**  
+- Credit card dominates transactions, contributing over 60% of revenue.  
+- Installment payments are preferred for high-ticket items, especially in Southeast Brazil.  
+- "Boleto" method shows high abandonment in lower-tier regions.
+
+---
 
 ## 🛠️ Tools Used
 - **Power BI**
