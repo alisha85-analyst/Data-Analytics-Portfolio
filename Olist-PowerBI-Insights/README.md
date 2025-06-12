@@ -59,9 +59,8 @@ To extract advanced insights beyond just sales metrics by answering operational 
 
 ---
 
-## 📌 Author
-**Alisha Mahanty**  
-Aspiring Data Analyst | Excel | SQL | Power BI | Python | AI for Analytics  
-[LinkedIn Profile](#) • [Portfolio Website](#)
+## 📊 **Power BI Dashboard:**
+🔗 [Download Olist E-commerce Power BI Dashboard (.pbix)](./Olist_E-commerce_Project.pbix)
+
 
 
