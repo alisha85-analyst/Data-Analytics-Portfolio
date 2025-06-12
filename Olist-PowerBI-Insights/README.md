@@ -38,35 +38,36 @@ To extract advanced insights beyond just sales metrics by answering operational 
 - Regional Payment Trends
 
 ---
+
 ## 📌 Key Insights
 
-✅ Customer Experience
-Over 57% of reviews are 5-star rated, indicating strong customer satisfaction.
-Sentiment analysis reveals positive feedback is most common in high-performing categories.
-Response time to reviews is fastest in top-tier metro regions.
-Northeast Brazil shows higher review volatility with more mixed ratings.
-Some categories like “computers accessories” receive lower average ratings despite high sales.
+✅ **Customer Experience**  
+- Over 57% of reviews are 5-star rated, indicating strong customer satisfaction.  
+- Sentiment analysis reveals positive feedback is most common in high-performing categories.  
+- Response time to reviews is fastest in top-tier metro regions.  
+- Northeast Brazil shows higher review volatility with more mixed ratings.  
+- Some categories like “computers accessories” receive lower average ratings despite high sales.  
 
-✅ Delivery & Logistics Performance
-Actual delivery averages ~10 days vs. the estimated ~8 days.
-South and Northeast regions face the most frequent delays.
-Standard shipping methods are associated with higher late delivery percentages.
-Delivery delays peak during holidays and sales periods (e.g., November).
-Cities with multiple sellers show more efficient delivery performance.
+✅ **Delivery & Logistics Performance**  
+- Actual delivery averages ~10 days vs. the estimated ~8 days.  
+- South and Northeast regions face the most frequent delays.  
+- Standard shipping methods are associated with higher late delivery percentages.  
+- Delivery delays peak during holidays and sales periods (e.g., November).  
+- Cities with multiple sellers show more efficient delivery performance.  
 
-✅ Product & Category Operations
-“Bed_Bath_Table” and “Furniture” categories generate high revenue but have high complaint ratios.
-Shipping heavier items correlates with more delays and lower satisfaction.
-Some categories have high volume but low profitability due to pricing strategies.
-The “Watches_Gifts” category shows high returns despite small order value.
-Products with longer dimensions tend to incur higher shipping costs and lower sentiment.
+✅ **Product & Category Operations**  
+- “Bed_Bath_Table” and “Furniture” categories generate high revenue but have high complaint ratios.  
+- Shipping heavier items correlates with more delays and lower satisfaction.  
+- Some categories have high volume but low profitability due to pricing strategies.  
+- The “Watches_Gifts” category shows high returns despite small order value.  
+- Products with longer dimensions tend to incur higher shipping costs and lower sentiment.  
 
-✅ Payment Behavior Analysis
-Credit card is the most preferred payment method, used in over 60% of orders.
-Installment payments are mainly used for high-value purchases in Southeast Brazil.
-Single payments dominate in low-value and low-income regions.
-Boleto method is popular but often abandoned before completion.
-Higher installment counts (6+) show slightly higher return and cancellation rates.
+✅ **Payment Behavior Analysis**  
+- Credit card is the most preferred payment method, used in over 60% of orders.  
+- Installment payments are mainly used for high-value purchases in Southeast Brazil.  
+- Single payments dominate in low-value and low-income regions.  
+- Boleto method is popular but often abandoned before completion.  
+- Higher installment counts (6+) show slightly higher return and cancellation rates.
 
 ---
 
