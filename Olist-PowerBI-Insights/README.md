@@ -60,7 +60,7 @@ To extract advanced insights beyond just sales metrics by answering operational 
 ---
 
 ## 📊 **Power BI Dashboard:**
-🔗 [Download Olist E-commerce Power BI Dashboard (.pbix)](./Olist_E-commerce_Project.pbix)
+[Download Olist E-commerce Power BI Dashboard (.pbix)](./Olist_E-commerce_Project.pbix)
 
 
 
