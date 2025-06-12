@@ -42,14 +42,14 @@ To extract advanced insights beyond just sales metrics by answering operational 
 ## 📌 Key Insights
 
 ✅ **Customer Experience**  
-- Over 57% of reviews are 5-star rated, indicating strong customer satisfaction.  
+- Over 58% of reviews are 5-star rated, indicating strong customer satisfaction.  
 - Sentiment analysis reveals positive feedback is most common in high-performing categories.  
 - Response time to reviews is fastest in top-tier metro regions.  
 - Northeast Brazil shows higher review volatility with more mixed ratings.  
 - Some categories like “computers accessories” receive lower average ratings despite high sales.  
 
 ✅ **Delivery & Logistics Performance**  
-- Actual delivery averages ~10 days vs. the estimated ~8 days.  
+- Actual delivery averages ~12 days vs. the estimated ~24 days.  
 - South and Northeast regions face the most frequent delays.  
 - Standard shipping methods are associated with higher late delivery percentages.  
 - Delivery delays peak during holidays and sales periods (e.g., November).  
