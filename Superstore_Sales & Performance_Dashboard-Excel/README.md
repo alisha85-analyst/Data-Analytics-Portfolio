@@ -10,7 +10,7 @@ To analyze and visualize Superstore sales data using Excel to uncover business p
 - Slicers & Filters – for interactive dashboard navigation
 - Data Visualization Techniques – dashboard creation with KPIs and charts to visualize insights
 
-## 📊 Key Insights
+## 📑 [Key Insights (Analysis_Insights.pdf)](./Analysis_Insights.pdf)
 - Analyzed 9,994 orders over 4 years, deriving 15 actionable business insights.
 - Achieved $2.3M in total sales with a ~12% profit margin.
 - West and East regions lead in both sales and order volume; South lags behind.
