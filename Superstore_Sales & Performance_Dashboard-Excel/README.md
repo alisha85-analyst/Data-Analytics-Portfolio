@@ -1,4 +1,4 @@
-# 🧾 Superstore Sales & Performance Dashboard – Excel Project
+# 📊 Superstore Sales & Performance Dashboard – Excel Project
 
 ## 📌 Objective
 To analyze and visualize Superstore sales data using Excel to uncover business patterns, identify key profit drivers, and deliver actionable insights across regions, categories, customer segments, and shipping methods — supporting data-driven decisions through an interactive KPI dashboard.
