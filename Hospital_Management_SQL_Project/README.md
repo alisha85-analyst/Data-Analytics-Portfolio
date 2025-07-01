@@ -9,9 +9,14 @@ This project simulates a Hospital Management System built using **MySQL**, desig
 - **Database Name:** `hospital_db`
 - **Total Tables:** 5 (Patients, Doctors, Appointments, Treatments, Billing)
 - **Relationships:** All tables connected with primary and foreign keys
-- **Records:** 500+ synthetic rows created for simulation
+- **Records:** 1,000+ synthetic rows created for simulation
 
 ---
+
+### 🗺️ Entity Relationship Diagram
+
+![ER Diagram](https://github.com/alisha85-analyst/Data-Analytics-Portfolio/blob/main/Hospital_Management_SQL_Project/ER_Diagram.png)
+
 
 ## 🛠 Tools & Skills Used
 
