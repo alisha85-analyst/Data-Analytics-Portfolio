@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System – SQL Portfolio Project
+# 🏥 Hospital Management System – SQL Project
 
 This project simulates a Hospital Management System built using **MySQL**, designed for data analysis, reporting, and query optimization using realistic relational healthcare data.
 
