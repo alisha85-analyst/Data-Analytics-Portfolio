@@ -62,4 +62,3 @@ This project simulates a Hospital Management System built using **MySQL**, desig
 
 - `schema.sql` – database creation and table structure
 - `queries.sql` – all business queries
-- `README.md` – project documentation (this file)
