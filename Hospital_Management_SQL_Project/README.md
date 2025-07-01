@@ -9,7 +9,7 @@ This project simulates a Hospital Management System built using **MySQL**, desig
 - **Database Name:** `hospital_db`
 - **Total Tables:** 5 (Patients, Doctors, Appointments, Treatments, Billing)
 - **Relationships:** All tables connected with primary and foreign keys
-- **Records:** 1,000+ synthetic rows created for simulation
+- **Records:** 500+ synthetic rows created for simulation
 
 ---
 
@@ -17,9 +17,10 @@ This project simulates a Hospital Management System built using **MySQL**, desig
 
 - SQL (MySQL)
 - Data Modeling (Normalization, Primary/Foreign Keys)
+- SELECT queries & Sub-queries 
 - Complex Joins & Aggregations
 - Window Functions (`RANK()`, `FORMAT()`)
-- Time-based Queries (`DATE_FORMAT()`, `DATE_ADD()`)
+- Time-based Queries
 
 ---
 
