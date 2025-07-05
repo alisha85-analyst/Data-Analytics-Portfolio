@@ -63,6 +63,17 @@ This project simulates a Hospital Management System built using **MySQL**, desig
 
 ---
 
+## 📝 Project Presentation
+
+I created a detailed PDF presentation to visually explain this SQL project, including:
+Project goals and tools used
+Database schema and ER diagram
+10 business-focused SQL queries
+Key insights and outcomes
+👉 [Click here to view the full PDF presentation](https://github.com/alisha85-analyst/Data-Analytics-Portfolio/blob/main/Hospital_Management_SQL_Project/Hospital_Management-SQL_Project.pdf)
+
+---
+
 ## 📁 Files Included
 
 - `schema.sql` – database creation and table structure
